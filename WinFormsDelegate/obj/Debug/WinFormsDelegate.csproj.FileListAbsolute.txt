@@ -1,0 +1,11 @@
+C:\Users\97252\source\repos\WinFormsDelegate\WinFormsDelegate\bin\Debug\WinFormsDelegate.exe.config
+C:\Users\97252\source\repos\WinFormsDelegate\WinFormsDelegate\bin\Debug\WinFormsDelegate.exe
+C:\Users\97252\source\repos\WinFormsDelegate\WinFormsDelegate\bin\Debug\WinFormsDelegate.pdb
+C:\Users\97252\source\repos\WinFormsDelegate\WinFormsDelegate\obj\Debug\WinFormsDelegate.csproj.AssemblyReference.cache
+C:\Users\97252\source\repos\WinFormsDelegate\WinFormsDelegate\obj\Debug\WinFormsDelegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\97252\source\repos\WinFormsDelegate\WinFormsDelegate\obj\Debug\WinFormsDelegate.Form1.resources
+C:\Users\97252\source\repos\WinFormsDelegate\WinFormsDelegate\obj\Debug\WinFormsDelegate.Properties.Resources.resources
+C:\Users\97252\source\repos\WinFormsDelegate\WinFormsDelegate\obj\Debug\WinFormsDelegate.csproj.GenerateResource.cache
+C:\Users\97252\source\repos\WinFormsDelegate\WinFormsDelegate\obj\Debug\WinFormsDelegate.csproj.CoreCompileInputs.cache
+C:\Users\97252\source\repos\WinFormsDelegate\WinFormsDelegate\obj\Debug\WinFormsDelegate.exe
+C:\Users\97252\source\repos\WinFormsDelegate\WinFormsDelegate\obj\Debug\WinFormsDelegate.pdb
